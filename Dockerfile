@@ -1,6 +1,6 @@
 FROM genieacs-base
 
-MAINTAINER LUXNETWORK Engineering <eng@luxnetwork.lu>
+MAINTAINER Jaime Vélez - Ingeniero Télemático.
 
 # Expose GenieACS NBI port
 EXPOSE 7557
