@@ -1,4 +1,4 @@
-FROM genieacs-base
+FROM jaimevlz7/genieacs-base
 
 MAINTAINER Jaime Vélez - Ingeniero Télemático.
 
